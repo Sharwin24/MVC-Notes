@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1620427371 "c:/Users/Sharwin/Documents/Github/MVC-Notes/Multivariable Calculus/main.tex" "main.pdf" "main" 1620427382
-  "c:/Users/Sharwin/Documents/Github/MVC-Notes/Multivariable Calculus/main.tex" 1620427355 84203 61cc0e01f51e681184eb79eec7139494 ""
+["pdflatex"] 1620427371 "c:/Users/Sharwin/Documents/Github/MVC-Notes/Multivariable Calculus/main.tex" "main.pdf" "main" 1620439568
+  "c:/Users/Sharwin/Documents/Github/MVC-Notes/Multivariable Calculus/main.tex" 1620429900 84203 61cc0e01f51e681184eb79eec7139494 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1620145647 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1620147136 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm" 1620158330 1616 371d1ee60c04b008c8fd760060cd34f1 ""
@@ -289,12 +289,12 @@
   "logo.png" 1608585036 10135 21e5683007a5300335932f0d14c91811 ""
   "main.aux" 1620427377 4513 7140f5602064f5deb6b5737aedfad9b2 "pdflatex"
   "main.out" 1620427377 4435 dc8e41f5d0e4893bb171d5711e98ef55 "pdflatex"
-  "main.tex" 1620427355 84203 61cc0e01f51e681184eb79eec7139494 ""
+  "main.tex" 1620429900 84203 61cc0e01f51e681184eb79eec7139494 ""
   "main.toc" 1620427377 2263 7d758fc254acca3358a00da663474860 "pdflatex"
   "multiplePaths.png" 1608585036 8813 f6d7661e1a47fdde55f0b17f74320759 ""
   (generated)
-  "main.toc"
-  "main.aux"
+  "main.out"
   "main.pdf"
   "main.log"
-  "main.out"
+  "main.toc"
+  "main.aux"
